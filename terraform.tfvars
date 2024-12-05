@@ -1,0 +1,8 @@
+rg_name        = "rg-openAISvc-sndbx-eastus"
+ai_search_name = "ai-search-sndbx-demo"
+openai_name    = "openai-sndbx-demo"
+sa_name        = "sasndbxtfstate"
+#storage_account_id = "satfstatesndbx"
+container_name  = "tfstate"
+location        = "eastus"
+deployment_name = "chatgpt4o"
