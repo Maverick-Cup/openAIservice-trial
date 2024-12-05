@@ -20,6 +20,6 @@ terraform {
 provider "azurerm" {
   features {}
   #alias           = "new"
-  subscription_id = ""
+  subscription_id = "your subs id"
   #terraform import azurerm_resource_group.rg /subscriptions/7700f392-dcd5-4c02-9432-76a162f3c6d6/resourceGroups/rg-openAISvc-sndbx-eastus
 }
